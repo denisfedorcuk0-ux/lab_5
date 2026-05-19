@@ -1,4 +1,4 @@
-name: lab_5
+name: lab_4
 
 on:
   push:
@@ -34,7 +34,7 @@ jobs:
       - name: Generate Javadoc
         run: |
           mkdir -p docs
-          javadoc -d docs -encoding UTF-8 -docencoding UTF-8 -charset UTF-8 src/*.java
+          find src -name "*.java" | xargs javadoc -d docs -encoding UTF-8 -docencoding UTF-8 -charset UTF-8
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
