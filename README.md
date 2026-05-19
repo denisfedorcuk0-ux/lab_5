@@ -83,7 +83,7 @@ lab5/
 │  │  ├─ Room.java
 │  │  └─ Main.java
 ├─ pom.xml
-└─ README.md        
+└─ README.md 
 
 
 ## Відео
