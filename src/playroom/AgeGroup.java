@@ -1,4 +1,7 @@
-package Playroom;
+package playroom;
 
-public class AgeGroup {
+public enum AgeGroup {
+    TODDLER,
+    PRESCHOOL,
+    SCHOOL_AGE
 }

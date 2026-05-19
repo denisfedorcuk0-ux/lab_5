@@ -1,4 +1,7 @@
-package Playroom.exceptions;
+package playroom.exceptions;
 
-public class PlayroomException {
+public class PlayroomException extends Exception {
+    public PlayroomException(String message) {
+        super(message);
+    }
 }

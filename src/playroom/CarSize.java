@@ -1,4 +1,5 @@
-package Playroom;
+package playroom;
 
-public class CarSize {
+public enum CarSize {
+    SMALL, MEDIUM, LARGE
 }
