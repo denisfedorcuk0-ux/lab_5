@@ -89,3 +89,8 @@ lab5/
 
 ## Відео
 
+
+
+https://github.com/user-attachments/assets/1d2df898-a3e4-4bba-9bde-189f3f1bb6e4
+
+
